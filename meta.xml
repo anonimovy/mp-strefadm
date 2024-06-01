@@ -1,0 +1,4 @@
+<meta>
+    <info name="mpRPG Strefa DM" author="anonimovy" version="1.0" />
+    <script src="dm_zone.lua" type="server" />
+</meta>
